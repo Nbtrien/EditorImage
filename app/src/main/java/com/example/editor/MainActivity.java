@@ -951,8 +951,5 @@ public class MainActivity extends AppCompatActivity {
         btn.setImageBitmap(outputBitmap);
     }
 
-    private void di(){
-
-    }
 
 }
