@@ -1,5 +1,4 @@
 package com.example.editor;
-//new
 import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AlertDialog;
@@ -952,7 +951,4 @@ public class MainActivity extends AppCompatActivity {
         btn.setImageBitmap(outputBitmap);
     }
 
-//    private void displayBitmap() {
-//        
-//    }
 }
