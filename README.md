@@ -1,8 +1,6 @@
-# Image Editing Application Based on Android Platform
+# Image Editing Application Based on Android Platform using java programming language.
 
-## Image editing application based on android platform using java programming language.
-
-## Screebshots
+## Screenshots
 <img src = "https://github.com/Nbtrien/EditorImage/blob/master/img/Screenshot%202023-08-25%20102151.png" alt = ""/>
 <img src = "https://github.com/Nbtrien/EditorImage/blob/master/img/Screenshot%202023-08-25%20101712.png" alt = ""/>
 <img src = "https://github.com/Nbtrien/EditorImage/blob/master/img/Screenshot%202023-08-25%20101921.png" alt = ""/>
